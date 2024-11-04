@@ -1,4 +1,5 @@
 import random
+# introduction to the generator
 print("Intelligence, charisma, and strength are all on a scale from 1 to 10\n")
 amount = int(input("How many characters would you like? "))
 counter = 1
